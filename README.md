@@ -1,8 +1,8 @@
-# Instalasi OpenStack dengan DevStack (Revisi 2)
+# Private Cloud OpenStack dengan DevStack
 
 Proyek membangun private cloud **OpenStack 2026.1** secara all-in-one memakai **DevStack** pada satu VM Ubuntu Server 24.04 di VMware Workstation, lengkap dengan deploy website pada instance OpenStack (image, flavor, security group, cloud-init, floating IP). Dikerjakan dalam mata kuliah Sistem Komputasi Awan, D3 Teknologi Komputer, Institut Teknologi Del.
 
-**Penyusun:** Bram Naibaho (NIM 43324002)
+**Penyusun:** Bram Naibaho · [LinkedIn](https://www.linkedin.com/in/bram-modestus-naibaho-95866b387/)
 
 ## Hasil
 
